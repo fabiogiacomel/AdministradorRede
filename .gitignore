@@ -1,0 +1,19 @@
+# System Files
+tmp/
+.agent/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Project Specific
+new_system.cfg
+system.cfg
+sys_upload_*.cfg
+
+# Docker
+.docker/
+
+# User Data
+_ARCHIVE/

@@ -1,0 +1,79 @@
+
+Name                               InterfaceDescription
+----                               --------------------    
+Ethernet                           Realtek PCIe GbE Family‚Ä¶
+vEthernet (WSL (Hyper-V firewall)) Hyper-V Virtual Etherne‚Ä¶
+Wi-Fi                              Intel(R) Wi-Fi 6 AX201 ‚Ä¶
+
+
+Configuraá∆o de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : Fabio
+   Sufixo DNS prim†rio . . . . . . . . . . . . : 
+   Tipo de n¢. . . . . . . . . . . . . . . . . : h°brido
+   Roteamento de IP ativado. . . . . . . . . . : n∆o
+   Proxy WINS ativado. . . . . . . . . . . . . : n∆o
+
+Adaptador Ethernet vEthernet (WSL (Hyper-V firewall)):
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Endereáo F°sico . . . . . . . . . . . . . . : 00-15-5D-69-CD-3C
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::98e1:5bb:1ee5:fa2a%52(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 172.25.176.1(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.240.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 872420701
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2C-5D-6D-36-04-BF-1B-65-DA-7D
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador de Rede sem Fio Conex∆o Local* 1:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Endereáo F°sico . . . . . . . . . . . . . . : F4-6D-3F-18-C8-D4
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conex∆o Local* 2:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Endereáo F°sico . . . . . . . . . . . . . . : F6-6D-3F-18-C8-D3
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX201 160MHz
+   Endereáo F°sico . . . . . . . . . . . . . . : F4-6D-3F-18-C8-D3
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 . . . . . . . . . . : 2804:6fc:aea5:cc00:50f9:5809:b46a:3(Preferencial) 
+   Concess∆o Obtida. . . . . . . . . . . . . . : segunda-feira, 2 de fevereiro de 2026 07:56:56
+   Concess∆o Expira. . . . . . . . . . . . . . : segunda-feira, 2 de fevereiro de 2026 09:56:56
+   Endereáo IPv6 . . . . . . . . . . : 2804:6fc:aea5:cc00:9172:9c9d:b5:dd26(Preferencial) 
+   Endereáo IPv6 Tempor†rio. . . . . . . . : 2804:6fc:aea5:cc00:e8e7:748b:607b:15fd(Preferencial) 
+   Endereáo IPv6 de link local . . . . . . . . : fe80::e3bf:b0f9:9eeb:3f3d%9(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.1.222(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : fe80::52f9:58ff:fe09:b46a%9
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 133459263
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2C-5D-6D-36-04-BF-1B-65-DA-7D
+   Servidores DNS. . . . . . . . . . . . . . . : fe80::52f9:58ff:fe09:b46a%9
+                                                 fe80::52f9:58ff:fe09:b46a%9
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador Ethernet Ethernet:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Endereáo F°sico . . . . . . . . . . . . . . : 04-BF-1B-65-DA-7D
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
